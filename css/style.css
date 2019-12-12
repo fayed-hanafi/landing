@@ -1,0 +1,33 @@
+@import url("https://fonts.googleapis.com/css?family=Girassol|Alatsi|Lato|Permanent+Marker&display=swap");
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+
+a:hover { 					
+	font-weight: 500;
+	color: #743c00;
+	font-weight: 800;
+	transition: color 0.3s ease;
+}
+
+
+body {
+	font-family: 'Lato', sans-serif;
+	font-size: 18px;
+	margin: 0px;
+}
+
+h1 {
+	font-family: 'Alatsi', sans-serif;
+}
+
+h2, h3 {
+	font-family: 'Girassol', cursive;
+	
+}
+
+a {
+	text-decoration: none;
+}
